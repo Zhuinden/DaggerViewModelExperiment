@@ -1,6 +1,6 @@
-# DaggerViewModelExperiment
+# DEPRECATED
 
-**[DEPRECATED]**
+## DaggerViewModelExperiment
 
 This is a PoC example for app->activity->fragment subscoping with Subcomponents + ViewModel by SavedStateHandle (using AutoFactory). 
 
